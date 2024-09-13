@@ -1,0 +1,14 @@
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\obj\Debug\net7.0\pro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\obj\Debug\net7.0\pro.AssemblyInfoInputs.cache
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\obj\Debug\net7.0\pro.AssemblyInfo.cs
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\obj\Debug\net7.0\pro.csproj.CoreCompileInputs.cache
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\bin\Debug\net7.0\pro.exe
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\bin\Debug\net7.0\pro.deps.json
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\bin\Debug\net7.0\pro.runtimeconfig.json
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\bin\Debug\net7.0\pro.dll
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\bin\Debug\net7.0\pro.pdb
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\obj\Debug\net7.0\pro.dll
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\obj\Debug\net7.0\refint\pro.dll
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\obj\Debug\net7.0\pro.pdb
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\obj\Debug\net7.0\pro.genruntimeconfig.cache
+c:\Users\bubon\OneDrive\Documents\GitHub\pro\obj\Debug\net7.0\ref\pro.dll
